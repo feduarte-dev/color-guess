@@ -1,4 +1,4 @@
-# README: Blogs API
+# README: Guess the color
 
 <img src="assets/guess-color.png" alt="page" title="page" width=100%>
 
