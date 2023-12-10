@@ -39,6 +39,12 @@ This is a small project where you try to determine the color represented by RGB 
    npm install
    ```
 
+4. Run application:
+
+   ```bash
+   Right click index.html and open it with live server
+   ```
+
 ## Contributions
 
 [Felipe](https://www.linkedin.com/in/feduarte-dev/) - index.html - style.css - script.js
